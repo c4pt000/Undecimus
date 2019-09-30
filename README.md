@@ -1,11 +1,10 @@
 
-git clone Undecimus
-<br>
+```
+git clone https://github.com/c4pt000/Undecimus
 cd Undecimus
-<br>
 git submodule init && git submodule update
-<br>
 open Undecimus.xcodeproj
+```
 <br>
 "set signing capabilities to iphone dev account"
 <br>
