@@ -8,6 +8,8 @@ open Undecimus.xcodeproj
 ```
 
 * set app sigining in xcode
+* change bundle identifier
+
 ![signing](https://user-images.githubusercontent.com/46433702/65895294-3d452380-e379-11e9-9871-3e26694c3dde.png)
 
 
