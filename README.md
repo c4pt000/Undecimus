@@ -8,7 +8,7 @@ open Undecimus.xcodeproj
 <br>
 "set signing capabilities to iphone dev account"
 <br>
-![undecimus-signing](https://user-images.githubusercontent.com/46433702/65895294-3d452380-e379-11e9-9871-3e26694c3dde.png)
+![signing](https://user-images.githubusercontent.com/46433702/65895294-3d452380-e379-11e9-9871-3e26694c3dde.png)
 
 
 <br>
