@@ -1,10 +1,14 @@
 
 git clone Undecimus
+<br>
 cd Undecimus
+<br>
 git submodule init && git submodule update
+<br>
 open Undecimus.xcodeproj
+<br>
 "set signing capabilities to iphone dev account"
-
+<br>
 # unc0ver
 ### The most advanced jailbreak tool
 ![unc0ver logo](https://github.com/pwn20wndstuff/Undecimus/raw/master/Undecimus/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png)
